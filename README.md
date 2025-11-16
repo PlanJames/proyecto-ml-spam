@@ -84,3 +84,10 @@ Predicción: spam
 > Hola, llegás en 10 min?
 Predicción: ham
 
+## 🚀 Mejoras futuras
+
+- Mejorar la robustez del modelo incorporando mensajes en español y casos más complejos, porque descubrí que textos promocionales escritos en español pueden clasificarse como ham.
+
+
+
+
